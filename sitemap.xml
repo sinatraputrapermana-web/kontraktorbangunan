@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Beranda -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/web/hero.webp</image:loc>
+      <image:title>Kontraktor Bangunan Indonesia</image:title>
+    </image:image>
+  </url>
+
+  <!-- Tentang Kami -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/tentang-kami</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/web/tentang-kami.webp</image:loc>
+      <image:title>Tentang Perusahaan Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-kontraktor-rumah.webp</image:loc>
+      <image:title>Layanan Jasa Kontraktor Bangunan Desain</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Kontraktor Rumah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-kontraktor-rumah</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-kontraktor-rumah.webp</image:loc>
+      <image:title>Jasa Kontraktor Rumah Profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Kontraktor Bangunan -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-kontraktor-bangunan</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-konstruksi.webp</image:loc>
+      <image:title>Jasa Kontraktor Bangunan Komersial Gedung</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Arsitek -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-arsitek</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-arsitek.webp</image:loc>
+      <image:title>Jasa Arsitek Desain Rumah</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Desain Interior -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-desain-interior</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-desain-interior.webp</image:loc>
+      <image:title>Jasa Desain Interior Rumah Kantor</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Renovasi -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-renovasi</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-renovasi.webp</image:loc>
+      <image:title>Jasa Renovasi Rumah Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Layanan: Jasa Pengawasan & Manajemen Konstruksi -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/layanan/jasa-pengawasan-manajemen-konstruksi</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/layanan/jasa-kontruksi-2.webp</image:loc>
+      <image:title>Jasa Pengawasan Manajemen Konstruksi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Galeri -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/galeri</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/galeri/rumah-modern-tropis-2-lantai.webp</image:loc>
+      <image:title>Portfolio Galeri Proyek Konstruksi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Index -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
+      <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Apa Itu Kontraktor Bangunan -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/apa-itu-kontraktor-bangunan-dan-apa-saja-tugasnya</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
+      <image:title>Apa Itu Kontraktor Bangunan dan Apa Saja Tugasnya?</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan-2.webp</image:loc>
+      <image:title>Tahapan Pengerjaan Konstruksi Beton dan Dinding</image:title>
+    </image:image>
+  </url>
+
+</urlset>

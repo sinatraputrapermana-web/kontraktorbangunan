@@ -1,0 +1,26 @@
+# robots.txt for https://kontraktorbangunan.web.id/
+
+User-agent: *
+Allow: /
+
+# Generative AI Crawler Access (Optimized for AEO / GEO Citations)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: AnthropicAI
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Sitemap Index Link
+Sitemap: https://kontraktorbangunan.web.id/sitemap.xml
