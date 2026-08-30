@@ -137,10 +137,10 @@
     </image:image>
   </url>
 
-  <!-- Blog Detail: Apa Itu Kontraktor Bangunan -->
+  <!-- Blog Detail 1: Apa Itu Kontraktor Bangunan -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog/apa-itu-kontraktor-bangunan-dan-apa-saja-tugasnya</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -150,6 +150,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan-2.webp</image:loc>
       <image:title>Tahapan Pengerjaan Konstruksi Beton dan Dinding</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 2: Bata Ringan vs Bata Merah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/bata-ringan-vs-bata-merah-mana-lebih-hemat</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bata-ringan-vs-bata-merah-biaya.webp</image:loc>
+      <image:title>Bata Ringan vs Bata Merah Mana Lebih Hemat Biaya 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/efisiensi-material-dinding-konstruksi.webp</image:loc>
+      <image:title>Efisiensi Material Dinding Konstruksi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 3: Biaya Bangun Rumah per Meter 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-rumah-per-meter-2026</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/rincian-biaya-bangun-rumah-2026.webp</image:loc>
+      <image:title>Rincian Biaya Bangun Rumah per Meter Persegi Terbaru 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-kontraktor-bangunan-profesional.webp</image:loc>
+      <image:title>Jasa Kontraktor Bangunan Profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 4: Jasa Renovasi Rumah Murah Malang -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-renovasi-rumah-murah-bergaransi-malang</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-renovasi-rumah-murah-bergaransi-malang.webp</image:loc>
+      <image:title>Jasa Renovasi Rumah Murah Bergaransi di Malang 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/estimasi-rab-renovasi-malang.webp</image:loc>
+      <image:title>Estimasi RAB Renovasi Rumah Malang</image:title>
     </image:image>
   </url>
 
