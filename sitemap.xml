@@ -180,8 +180,8 @@
       <image:title>Rincian Biaya Bangun Rumah per Meter Persegi Terbaru 2026</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-kontraktor-bangunan-profesional.webp</image:loc>
-      <image:title>Jasa Kontraktor Bangunan Profesional</image:title>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/rincian-biaya-bangun-rumah-2026-2.webp</image:loc>
+      <image:title>Perencanaan Anggaran dan Estimasi Biaya Bangun Rumah 2026</image:title>
     </image:image>
   </url>
 
@@ -200,5 +200,50 @@
       <image:title>Estimasi RAB Renovasi Rumah Malang</image:title>
     </image:image>
   </url>
+
+  <!-- Blog Detail 5: 5 Tahapan Bangun Ruko 2 Lantai -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-desain-rumah-vs-beli-desain-online</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-desain-rumah-vs-beli-desain-online.webp</image:loc>
+      <image:title>5 Tahapan Bangun Ruko 2 Lantai dari Perencanaan Hingga Selesai</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tahapan-bangun-ruko-2-lantai.webp</image:loc>
+      <image:title>Pelaksanaan Pekerjaan Struktur Beton Ruko 2 Lantai</image:title>
+    </image:image>
+  </url>
+  <!-- Blog Detail 6: Jasa Urus PBG Cepat Murah Malang -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-urus-pbg-cepat-murah-malang</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-urus-pbg-cepat-murah-malang.webp</image:loc>
+      <image:title>Jasa Urus PBG Cepat dan Murah untuk Wilayah Malang Raya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/syarat-prosedur-pengurusan-pbg-malang.webp</image:loc>
+      <image:title>Syarat dan Dokumen Wajib Pengurusan PBG Malang</image:title>
+    </image:image>
+  </url>
+  <!-- Blog Detail 7: Jenis Semen untuk Bangunan Rumah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jenis-semen-untuk-bangunan-rumah</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jenis-semen-untuk-bangunan-rumah.webp</image:loc>
+      <image:title>Jenis Semen untuk Bangunan Rumah dan Kegunaannya Masing-Masing</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/fungsi-kegunaan-tipe-semen-konstruksi.webp</image:loc>
+      <image:title>Pekerjaan Plesteran Dinding dan Pengaplikasian Semen Konstruksi Rumah</image:title>
+    </image:image>
 
 </urlset>
