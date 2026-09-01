@@ -2736,7 +2736,9 @@ legend {
 }
 
 .wa-float .bi-whatsapp,
-.btn .bi-whatsapp {
+.btn .bi-whatsapp,
+.scf-btn-success .bi-whatsapp,
+.scf-share-btn .bi-whatsapp {
   color: inherit;
 }
 

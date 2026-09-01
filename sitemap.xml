@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -246,5 +246,53 @@
       <image:title>Pekerjaan Plesteran Dinding dan Pengaplikasian Semen Konstruksi Rumah</image:title>
     </image:image>
     </url>
+
+    <!-- Blog Detail 8: Renovasi Rumah Total vs Bertahap -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/renovasi-rumah-total-vs-renovasi-bertahap</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/renovasi-rumah-total-vs-renovasi-bertahap.webp</image:loc>
+      <image:title>Renovasi Rumah Total vs Bertahap, Mana yang Lebih Efisien?</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-biaya-efisiensi-renovasi-rumah.webp</image:loc>
+      <image:title>Perbandingan Biaya dan Efisiensi Renovasi Rumah</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 9: Jasa Bangun Rumah Minimalis Murah Malang -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-bangun-rumah-minimalis-murah-malang</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-rumah-minimalis-murah-malang.webp</image:loc>
+      <image:title>Jasa Bangun Rumah Minimalis Murah Bergaransi di Malang</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/estimasi-biaya-kontraktor-rumah-malang.webp</image:loc>
+      <image:title>Perhitungan Estimasi Biaya RAB Kontraktor Rumah Minimalis Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 10: Cara Membuat RAB Bangun Rumah Sendiri -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/cara-membuat-rab-bangun-rumah-sendiri</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/cara-membuat-rab-bangun-rumah-sendiri.webp</image:loc>
+      <image:title>Cara Membuat RAB Bangun Rumah Sendiri Praktis dan Presisi 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/lembar-perhitungan-rab-konstruksi.webp</image:loc>
+      <image:title>Lembar Perhitungan RAB Konstruksi Transparan</image:title>
+    </image:image>
+  </url>
 
 </urlset>
