@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -292,6 +292,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/lembar-perhitungan-rab-konstruksi.webp</image:loc>
       <image:title>Lembar Perhitungan RAB Konstruksi Transparan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 11: Jasa Urus PBG Sendiri vs Pakai Jasa -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-urus-pbg-sendiri-vs-pakai-jasa</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-urus-pbg-sendiri-vs-pakai-jasa.webp</image:loc>
+      <image:title>Jasa Urus PBG Sendiri vs Pakai Jasa Lebih Cepat 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/dokumen-perizinan-pbg-simbg.webp</image:loc>
+      <image:title>Berkas Perizinan PBG Resmi yang Diterbitkan Melalui SIMBG</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 12: Jasa Bangun Ruko Murah Borongan Malang -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-bangun-ruko-murah-borongan-malang</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-ruko-murah-borongan-malang.webp</image:loc>
+      <image:title>Jasa Bangun Ruko Murah Sistem Borongan di Malang Berkualitas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/ruko-modern-komersial-malang.webp</image:loc>
+      <image:title>Desain Konstruksi Ruko Komersial Modern Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 13: 6 Tanda Rumah Perlu Direnovasi Total -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/tanda-rumah-perlu-direnovasi-total</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tanda-rumah-perlu-direnovasi-total.webp</image:loc>
+      <image:title>6 Tanda Rumah Perlu Direnovasi Total Sebelum Terlambat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pemeriksaan-struktur-bangunan-rumah.webp</image:loc>
+      <image:title>Audit Keandalan Struktur Hunian oleh Tim Kontraktor Bangunan</image:title>
     </image:image>
   </url>
 
