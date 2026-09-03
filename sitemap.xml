@@ -343,4 +343,20 @@
     </image:image>
   </url>
 
+  <!-- Blog Detail 14: Kontraktor Borongan Penuh vs Setengah Jadi -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-borongan-penuh-vs-setengah-jadi</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-borongan-penuh-vs-setengah-jadi-1.webp</image:loc>
+      <image:title>Perbandingan sistem kontraktor borongan penuh vs setengah jadi untuk gedung kantor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-borongan-penuh-vs-setengah-jadi-2.webp</image:loc>
+      <image:title>Estimasi biaya proyek konstruksi menggunakan Kontraktor Bangunan profesional</image:title>
+    </image:image>
+  </url>
+
 </urlset>
