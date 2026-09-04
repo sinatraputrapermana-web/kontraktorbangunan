@@ -439,4 +439,52 @@
     </image:image>
   </url>
 
+  <!-- Blog Detail 20: Review Besi Beton Ber-SNI vs Non-SNI Terlengkap 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/review-besi-beton-sni-vs-non-sni</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-besi-beton-sni-vs-non-sni.webp</image:loc>
+      <image:title>Perbandingan fisik review besi beton sni vs non sni pada proyek konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pengujian-kekuatan-besi-beton.webp</image:loc>
+      <image:title>Pengujian laboratorium kuat tarik besi beton ber-SNI oleh Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 21: Kontraktor Renovasi Atap Bocor Bergaransi Cepat 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-renovasi-atap-bocor-cepat</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/renovasi-atap-bocor-kontraktor.webp</image:loc>
+      <image:title>Kontraktor renovasi atap bocor cepat menangani perbaikan struktur bangunan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tim-kontraktor-atap-profesional.webp</image:loc>
+      <image:title>Pengerjaan waterproofing dan renovasi atap oleh Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 22: Panduan Konstruksi Gudang Baja Terbaik Pemula 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/panduan-konstruksi-gudang-baja</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/panduan-konstruksi-gudang-baja.webp</image:loc>
+      <image:title>Pelaksanaan teknis panduan konstruksi gudang baja presisi di kawasan industri</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/ereksi-rangka-baja-gudang.webp</image:loc>
+      <image:title>Proses eraksi rangka baja WF gudang oleh tim Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
 </urlset>
