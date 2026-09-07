@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -487,4 +487,53 @@
     </image:image>
   </url>
 
+  <!-- Blog Detail 23: Cara Memilih Besi Beton yang Kuat Sesuai SNI 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/cara-memilih-besi-beton-yang-kuat</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/cara-memilih-besi-beton-yang-kuat.webp</image:loc>
+      <image:title>Cara memilih besi beton yang kuat dan sesuai standar SNI untuk proyek gedung</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pemeriksaan-ukuran-besi-beton-sni.webp</image:loc>
+      <image:title>Pemeriksaan diameter besi beton menggunakan jangka sorong oleh Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 24: Review Software RAB Bangunan Gratis Terbaik 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/review-software-rab-bangunan-gratis</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-software-rab-bangunan-gratis.webp</image:loc>
+      <image:title>Review software RAB bangunan gratis dan perbandingan akurasi kalkulasi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/validasi-rab-bangunan-profesional.webp</image:loc>
+      <image:title>Validasi lembar kerja RAB bangunan profesional oleh Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 25: Konsultasi Perizinan Bangunan Gratis Terbaik 2026 -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/konsultasi-perizinan-bangunan-gratis</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konsultasi-perizinan-bangunan-gratis.webp</image:loc>
+      <image:title>Sesi konsultasi perizinan bangunan gratis bersama tim ahli legalitas konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pengurusan-dokumen-pbg-simbg.webp</image:loc>
+      <image:title>Penyiapan dokumen PBG dan SLF legal oleh Kontraktor Bangunan</image:title>
+    </image:image>
+  </url>
+
 </urlset>
+
