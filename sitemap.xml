@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -583,5 +583,54 @@
     </image:image>
   </url>
 
+  <!-- Blog Detail 29: Standar Kualitas Bata Merah vs Bata Ringan Proyek B2B -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/standar-kualitas-bata-merah-vs-bata-ringan</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/standar-kualitas-bata-merah-vs-bata-ringan-01.webp</image:loc>
+      <image:title>Standar kualitas bata merah vs bata ringan dalam konstruksi dinding komersial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/standar-kualitas-bata-merah-vs-bata-ringan-02.webp</image:loc>
+      <image:title>Ukuran bata ringan hebel dan kekuatan bata merah press standar industri</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 30: Renovasi Kamar Mandi Model Shower vs Bathtub Terbaik -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/bandingkan-renovasi-kamar-mandi-shower-vs-bathtub</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bandingkan-renovasi-kamar-mandi-shower-vs-bathtub-01.webp</image:loc>
+      <image:title>Bandingkan renovasi kamar mandi model shower vs bathtub untuk area perkantoran dan hunian</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bandingkan-renovasi-kamar-mandi-shower-vs-bathtub-02.webp</image:loc>
+      <image:title>Biaya renovasi kamar mandi minimalis dengan instalasi shower kaca tempered modern</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 31: Harga Bangun Rumah Tipe 36 Turnkey Hemat & Siap Huni -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/harga-bangun-rumah-tipe-36-turnkey</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-bangun-rumah-tipe-36-turnkey-01.webp</image:loc>
+      <image:title>Rincian estimasi harga bangun rumah tipe 36 turnkey profesional dan transparan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-bangun-rumah-tipe-36-turnkey-02.webp</image:loc>
+      <image:title>Pilihan paket rumah tipe 36 lengkap untuk proyek komersial dan fasilitas instansi</image:title>
+    </image:image>
+  </url>
+
 </urlset>
+
 
