@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -628,6 +628,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-bangun-rumah-tipe-36-turnkey-02.webp</image:loc>
       <image:title>Pilihan paket rumah tipe 36 lengkap untuk proyek komersial dan fasilitas instansi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 32: Contoh Gambar Kerja Rumah Minimalis Arsitek Presisi -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/contoh-gambar-kerja-rumah-minimalis</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/contoh-gambar-kerja-rumah-minimalis-01.webp</image:loc>
+      <image:title>Contoh gambar kerja rumah minimalis dan denah rumah minimalis 1 lantai arsitektural</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/contoh-gambar-kerja-rumah-minimalis-02.webp</image:loc>
+      <image:title>Lembar teknis gambar kerja siap IMB dan struktur bangunan presisi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 33: Biaya Urus IMB Manual vs Online Mana Lebih Hemat -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/bandingkan-biaya-urus-imb-manual-vs-online</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bandingkan-biaya-urus-imb-manual-vs-online-01.webp</image:loc>
+      <image:title>Bandingkan biaya urus IMB manual vs online untuk legalitas proyek konstruksi komersial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bandingkan-biaya-urus-imb-manual-vs-online-02.webp</image:loc>
+      <image:title>Kalkulasi tarif retribusi PBG dan rincian biaya jasa konsultan perizinan resmi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 34: Kirim RFP Proyek Konstruksi Komersial & Dapatkan RAB -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kirim-rfp-proyek-konstruksi-komersial</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kirim-rfp-proyek-konstruksi-komersial-01.webp</image:loc>
+      <image:title>Kirim RFP proyek konstruksi komersial untuk respon penawaran harga transparan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kirim-rfp-proyek-konstruksi-komersial-02.webp</image:loc>
+      <image:title>Format RFP proyek bangunan presisi untuk efisiensi pengadaan B2B</image:title>
     </image:image>
   </url>
 
