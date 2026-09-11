@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Supplier Material Bangunan Lengkap Murah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/supplier-material-bangunan-lengkap-murah</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/supplier-material-bangunan-lengkap-murah-01.webp</image:loc>
+      <image:title>Layanan supplier material bangunan lengkap murah dengan stok melimpah untuk proyek konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/supplier-material-bangunan-lengkap-murah-02.webp</image:loc>
+      <image:title>Distribusi bahan konstruksi berskala besar dari distributor material konstruksi resmi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Review Jasa Bangun Rumah Minimalis -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/review-jasa-bangun-rumah-minimalis</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-jasa-bangun-rumah-minimalis-01.webp</image:loc>
+      <image:title>Review jasa bangun rumah minimalis dengan pengecekan portofolio struktur bangunan modern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-jasa-bangun-rumah-minimalis-02.webp</image:loc>
+      <image:title>Hasil pengerjaan proyek dari portofolio kontraktor rumah minimalis bergaransi resmi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Tips Renovasi Rumah Tanpa Bongkar Total -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/tips-renovasi-rumah-tanpa-bongkar-total</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-renovasi-rumah-tanpa-bongkar-total-01.webp</image:loc>
+      <image:title>Tips renovasi rumah tanpa bongkar total dengan teknik finishing dinding modern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-renovasi-rumah-tanpa-bongkar-total-02.webp</image:loc>
+      <image:title>Renovasi ringan rumah pada area interior menggunakan material komposit berkualitas</image:title>
     </image:image>
   </url>
 
