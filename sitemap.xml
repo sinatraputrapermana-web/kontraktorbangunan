@@ -8,7 +8,7 @@
   <!-- Beranda -->
   <url>
     <loc>https://kontraktorbangunan.web.id/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Tips Memilih Kontraktor Rumah Terpercaya -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/tips-memilih-kontraktor-rumah-terpercaya</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-rumah-terpercaya-01.webp</image:loc>
+      <image:title>Perencanaan dan dokumen teknis pembangunan rumah bersama kontraktor profesional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-rumah-terpercaya-02.webp</image:loc>
+      <image:title>Pengawasan mutu dan pelaksanaan konstruksi terstandarisasi oleh kontraktor profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Perbandingan Cat Tembok Eksterior Tahan Cuaca -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/perbandingan-cat-tembok-eksterior-tahan-cuaca</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-cat-tembok-eksterior-tahan-cuaca-01.webp</image:loc>
+      <image:title>Aplikasi cat tembok eksterior pelindung cuaca pada fasad rumah modern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-cat-tembok-eksterior-tahan-cuaca-02.webp</image:loc>
+      <image:title>Hasil finishing fasad rumah minimalis dengan cat eksterior tahan cuaca premium</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Harga Renovasi Kamar Mandi per Meter -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/harga-renovasi-kamar-mandi-per-meter</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-renovasi-kamar-mandi-per-meter-01.webp</image:loc>
+      <image:title>Hasil renovasi kamar mandi modern minimalis dengan shower dan partisi kaca</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-renovasi-kamar-mandi-per-meter-02.webp</image:loc>
+      <image:title>Pemasangan ubin keramik dan instalasi sanitair kamar mandi presisi</image:title>
     </image:image>
   </url>
 
