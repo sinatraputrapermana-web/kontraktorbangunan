@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Syarat Dokumen Izin Bangun Rumah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/syarat-dokumen-izin-bangun-rumah</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/dokumen-perizinan-pbg-simbg.webp</image:loc>
+      <image:title>Kelengkapan syarat dokumen izin bangun rumah dan berkas teknis SIMBG</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/syarat-prosedur-pengurusan-pbg-malang.webp</image:loc>
+      <image:title>Verifikasi gambar kerja dan perhitungan struktur untuk penerbitan PBG</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Bandingkan Atap Gudang Spandek vs Galvalum -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/bandingkan-atap-gudang-spandek-vs-galvalum</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/ereksi-rangka-baja-gudang.webp</image:loc>
+      <image:title>Pemasangan atap spandek dan galvalum pada konstruksi rangka baja gudang</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konstruksi-gudang-baja-persisi.webp</image:loc>
+      <image:title>Struktur profil atap gudang tahan karat dan sistem insulasi peredam panas</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Paket Desain 3D dan RAB Sekaligus -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/paket-desain-3d-dan-rab-sekaligus</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/gambar-kerja-arsitektur-konstruksi.webp</image:loc>
+      <image:title>Visualisasi 3D render arsitektur rumah modern dan dokumen RAB konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/laporan-rab-konstruksi-profesional.webp</image:loc>
+      <image:title>Lembar analisa harga satuan pekerjaan dan cetak biru DED gambar kerja</image:title>
     </image:image>
   </url>
 
