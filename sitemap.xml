@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jenis Pondasi Rumah Tahan Gempa -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jenis-pondasi-rumah-tahan-gempa</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pemeriksaan-struktur-bangunan-rumah.webp</image:loc>
+      <image:title>Pemeriksaan penulangan besi pondasi rumah tahan gempa standar SNI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tahapan-borongan-rumah-2-lantai.webp</image:loc>
+      <image:title>Konstruksi pondasi cakar ayam dan sloof gantung beton bertulang rumah 2 lantai</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Baja Ringan Taso vs Kencana -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/baja-ringan-taso-vs-kencana-mana-lebih-kuat</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/ereksi-rangka-baja-gudang.webp</image:loc>
+      <image:title>Rangka atap baja ringan profil C dan reng taso terpasang presisi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pengujian-kekuatan-besi-beton.webp</image:loc>
+      <image:title>Pengujian ketebalan mikrometer baja ringan taso vs kencana standar SNI</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jasa Renovasi Dapur Minimalis Paket Lengkap -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-renovasi-dapur-minimalis-paket-lengkap</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/harga-renovasi-kamar-mandi-per-meter-01.webp</image:loc>
+      <image:title>Kitchen set dapur minimalis modern dengan top table granit dan kabinet HPL</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-biaya-efisiensi-renovasi-rumah.webp</image:loc>
+      <image:title>Pemasangan keramik dinding backsplash dan instalasi plumbing sink dapur</image:title>
     </image:image>
   </url>
 
