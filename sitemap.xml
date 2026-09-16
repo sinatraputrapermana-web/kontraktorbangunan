@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Tips Memilih Kontraktor Proyek Komersial -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/tips-memilih-kontraktor-proyek-komersial</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-proyek-komersial-01.webp</image:loc>
+      <image:title>Evaluasi portofolio proyek komersial ruko dan gudang modern</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-proyek-komersial-02.webp</image:loc>
+      <image:title>Manajemen jadwal kurva S dan legalitas kontrak proyek komersial</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jasa Arsitek Freelance vs Biro Arsitek -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-arsitek-freelance-vs-biro-arsitek</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-freelance-vs-biro-arsitek-01.webp</image:loc>
+      <image:title>Diskusi perancangan gambar kerja DED biro arsitek profesional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-freelance-vs-biro-arsitek-02.webp</image:loc>
+      <image:title>Perbandingan hasil render 3D dan dokumen teknis arsitektur</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Paket Legalitas Lengkap Bangun Rumah -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/paket-legalitas-lengkap-bangun-rumah</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/paket-legalitas-lengkap-bangun-rumah-01.webp</image:loc>
+      <image:title>Dokumen perizinan PBG SLF dan berkas legalitas konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/paket-legalitas-lengkap-bangun-rumah-02.webp</image:loc>
+      <image:title>Pemeriksaan kesesuaian gambar arsitektur dengan syarat SIMBG</image:title>
     </image:image>
   </url>
 
