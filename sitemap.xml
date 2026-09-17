@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Pentingnya Kualitas Campuran Cor Beton (17 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/pentingnya-kualitas-campuran-cor-beton</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pentingnya-kualitas-campuran-cor-beton-01.webp</image:loc>
+      <image:title>Pekerjaan pengecoran struktur balok dan kolom beton bertulang standar mutu SNI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/pentingnya-kualitas-campuran-cor-beton-02.webp</image:loc>
+      <image:title>Pengujian slump test dan silinder kuat tekan cor beton K300 di laboratorium konstruksi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Renovasi Rumah Subsidi vs Non Subsidi (17 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/renovasi-rumah-subsidi-vs-non-subsidi</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/renovasi-rumah-subsidi-vs-non-subsidi-01.webp</image:loc>
+      <image:title>Proses renovasi dapur dan penambahan dinding belakang rumah subsidi sesuai aturan PUPR</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/renovasi-rumah-subsidi-vs-non-subsidi-02.webp</image:loc>
+      <image:title>Transformasi fasad dan layout interior renovasi rumah non subsidi modern kontemporer</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jasa Bangun Rumah Custom Desain Gratis (17 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-bangun-rumah-custom-desain-gratis</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-rumah-custom-desain-gratis-01.webp</image:loc>
+      <image:title>Arsitek dan insinyur meninjau cetak biru denah gambar kerja rumah custom di meja proyek</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-rumah-custom-desain-gratis-02.webp</image:loc>
+      <image:title>Hasil konstruksi rumah mewah custom tropis modern 2 lantai siap huni bergaransi</image:title>
     </image:image>
   </url>
 
@@ -920,5 +968,7 @@
   </url>
 
 </urlset>
+
+
 
 
