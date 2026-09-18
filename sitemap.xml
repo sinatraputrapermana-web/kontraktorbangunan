@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Mengenal Jenis Genteng Tahan Bocor (18 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/mengenal-jenis-genteng-tahan-bocor</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/mengenal-jenis-genteng-tahan-bocor-01.webp</image:loc>
+      <image:title>Instalasi penutup atap genteng tahan bocor interlocking presisi untuk hunian iklim tropis</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/mengenal-jenis-genteng-tahan-bocor-02.webp</image:loc>
+      <image:title>Perbaikan dan pemasangan atap genteng anti bocor pada rumah tinggal oleh kontraktor profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Review Kontraktor Renovasi Rumah Tua Jadi Modern (18 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/review-kontraktor-renovasi-rumah-tua-jadi-modern</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-kontraktor-renovasi-rumah-tua-jadi-modern-01.webp</image:loc>
+      <image:title>Perbandingan sebelum dan sesudah renovasi rumah tua menjadi hunian modern minimalis kontemporer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-kontraktor-renovasi-rumah-tua-jadi-modern-02.webp</image:loc>
+      <image:title>Perencanaan dan visualisasi gambar kerja arsitektur renovasi rumah modern oleh kontraktor profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Paket Bangun Rumah Hemat Garansi 1 Tahun (18 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/paket-bangun-rumah-hemat-garansi-1-tahun</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/paket-bangun-rumah-hemat-garansi-1-tahun-01.webp</image:loc>
+      <image:title>Konstruksi rumah baru minimalis modern paket hemat dengan jaminan mutu struktur bergaransi 1 tahun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/paket-bangun-rumah-hemat-garansi-1-tahun-02.webp</image:loc>
+      <image:title>Pekerjaan pembesian sloof dan pengecoran struktur rumah tinggal standar mutu SNI</image:title>
     </image:image>
   </url>
 
