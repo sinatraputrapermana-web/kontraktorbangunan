@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1060,6 +1060,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/booking-survei-renovasi-rumah-gratis-02.webp</image:loc>
       <image:title>Konsultasi lembar estimasi RAB renovasi rumah transparan langsung jadi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 38: Mengenal Struktur Bangunan Pergudangan yang Efisien dan Kuat (21 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/mengenal-struktur-bangunan-pergudangan</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/mengenal-struktur-bangunan-pergudangan-01.webp</image:loc>
+      <image:title>Mengenal struktur bangunan pergudangan baja bentang lebar kokoh dan efisien</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/mengenal-struktur-bangunan-pergudangan-02.webp</image:loc>
+      <image:title>Pekerjaan pondasi gudang beban berat dan lantai cor beton bertulang heavy duty</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 39: Review Template RAB Excel Bangunan, Apa yang Perlu Disesuaikan? (21 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/review-template-rab-excel-bangunan</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-template-rab-excel-bangunan-01.webp</image:loc>
+      <image:title>Review template rab excel bangunan untuk estimasi biaya proyek akurat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/review-template-rab-excel-bangunan-02.webp</image:loc>
+      <image:title>Kustomisasi analisa harga satuan pekerjaan dan cara sesuaikan rab dengan lokasi</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 40: Konsultasi PBG dan SLF Gratis Langsung via WhatsApp (21 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/konsultasi-pbg-dan-slf-via-wa</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konsultasi-pbg-dan-slf-via-wa-01.webp</image:loc>
+      <image:title>Konsultasi pbg dan slf via wa dengan tim ahli perizinan kontraktor profesional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konsultasi-pbg-dan-slf-via-wa-02.webp</image:loc>
+      <image:title>Pengecekan kelengkapan dokumen teknis DED dan tanya legalitas bangunan via WA</image:title>
     </image:image>
   </url>
 
