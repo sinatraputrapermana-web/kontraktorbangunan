@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1108,6 +1108,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konsultasi-pbg-dan-slf-via-wa-02.webp</image:loc>
       <image:title>Pengecekan kelengkapan dokumen teknis DED dan tanya legalitas bangunan via WA</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 41: Jasa Kontraktor Rumah Mewah Surabaya Barat & Timur Terpercaya (22 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-rumah-surabaya-terpercaya</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-surabaya-terpercaya-01.webp</image:loc>
+      <image:title>Kontraktor rumah surabaya mewah modern tropis 2 lantai di kawasan residensial prestisius</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-surabaya-terpercaya-02.webp</image:loc>
+      <image:title>Pekerjaan pembesian sloof dan pengecoran struktur beton bertulang rumah tinggal surabaya</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 42: Tips Memilih Kontraktor Renovasi Ruko & Gedung di Surabaya (22 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/tips-memilih-kontraktor-ruko-surabaya</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-ruko-surabaya-01.webp</image:loc>
+      <image:title>Tips memilih kontraktor ruko surabaya untuk renovasi fasad modern dan tata ruang komersial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-memilih-kontraktor-ruko-surabaya-02.webp</image:loc>
+      <image:title>Tahapan pekerjaan konstruksi ruko 2 lantai struktur baja dan beton bertulang surabaya</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 43: Biaya Bangun Gudang & Pabrik di Kawasan Industri Surabaya Sidoarjo (22 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-gudang-surabaya-sidoarjo</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-gudang-surabaya-sidoarjo-01.webp</image:loc>
+      <image:title>Kontraktor gudang surabaya sidoarjo konstruksi rangka baja wf bentang lebar bebas tiang</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-gudang-surabaya-sidoarjo-02.webp</image:loc>
+      <image:title>Pengecoran lantai heavy duty gudang logistik tahan beban rak dan manuver forklift</image:title>
     </image:image>
   </url>
 
