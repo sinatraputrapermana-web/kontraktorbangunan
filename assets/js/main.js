@@ -300,6 +300,30 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  /* Universal Native Collapse Handler (Zero external JS dependency for TOC & FAQs) */
+  document.querySelectorAll('[data-bs-toggle="collapse"]').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      var targetSelector = btn.getAttribute('data-bs-target') || btn.getAttribute('href');
+      if (!targetSelector) return;
+      var target = document.querySelector(targetSelector);
+      if (!target) return;
+
+      var isShown = target.classList.contains('show');
+      if (isShown) {
+        target.classList.remove('show');
+        target.style.maxHeight = null;
+        btn.setAttribute('aria-expanded', 'false');
+        btn.classList.add('collapsed');
+      } else {
+        target.classList.add('show');
+        target.style.maxHeight = target.scrollHeight + 'px';
+        btn.setAttribute('aria-expanded', 'true');
+        btn.classList.remove('collapsed');
+      }
+    });
+  });
+
   /* Auto Rotating Mobile Stats Carousel */
   var statCards = document.querySelectorAll('.stats-carousel .stat-card');
   var statDots = document.querySelectorAll('.stats-dots .stat-dot');

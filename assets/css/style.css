@@ -2981,12 +2981,36 @@ legend {
 @media (max-width: 991px) {
 
   .nav-links,
-  .nav-cta .btn {
-    display: none;
+  .nav-cta {
+    display: none !important;
   }
 
   .nav-toggle {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 38px;
+    height: 38px;
+    padding: 6px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .nav-toggle span {
     display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--c-charcoal);
+    margin: 0;
+    transition: 0.3s;
+    border-radius: 2px;
+  }
+
+  .site-header.scrolled .nav-toggle span {
+    background: var(--c-milk) !important;
   }
 
   .hero-grid,
@@ -4684,6 +4708,39 @@ legend {
 .g-3 { --bs-gutter-x: 1rem; --bs-gutter-y: 1rem; }
 .g-4 { --bs-gutter-x: 1.5rem; --bs-gutter-y: 1.5rem; }
 .g-5 { --bs-gutter-x: 3rem; --bs-gutter-y: 3rem; }
+
+@media (max-width: 767px) {
+  .row {
+    --bs-gutter-x: 1rem !important;
+  }
+  .g-4, .g-5 {
+    --bs-gutter-x: 1rem !important;
+    --bs-gutter-y: 2rem !important;
+  }
+}
+
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.table-responsive .scf-comparison-table {
+  min-width: 580px;
+  margin: 0;
+}
+
+.collapse {
+  display: none;
+  overflow: hidden;
+  transition: max-height 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+}
+
+.collapse.show {
+  display: block;
+}
 
 .col-6 { flex: 0 0 auto; width: 50%; }
 .col-12 { flex: 0 0 auto; width: 100%; }
