@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -136,6 +136,57 @@
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
     </image:image>
   </url>
+  <!-- Blog Detail: jasa-arsitek-kediri-desain-rumah-mewah (23 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-arsitek-kediri-desain-rumah-mewah</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-kediri-desain-rumah-mewah-01.webp</image:loc>
+      <image:title>Jasa arsitek kediri desain rumah mewah modern tropis 2 lantai dengan bukaan kaca lebar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-kediri-desain-rumah-mewah-02.webp</image:loc>
+      <image:title>Lembar cetak gambar kerja DED arsitektur dan simulasi visual 3D render rumah kediri</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: biaya-jasa-arsitek-rumah-kediri (23 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-jasa-arsitek-rumah-kediri</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-jasa-arsitek-rumah-kediri-01.webp</image:loc>
+      <image:title>Biaya jasa arsitek rumah kediri kalkulasi rancangan anggaran biaya rab dan dokumen ded</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-kediri-desain-rumah-mewah-02.webp</image:loc>
+      <image:title>Visualisasi 3d render arsitektur rumah modern minimalis 2 lantai di kediri</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: jasa-arsitek-ruko-kafe-kediri (23 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-arsitek-ruko-kafe-kediri</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-ruko-kafe-kediri-01.webp</image:loc>
+      <image:title>Jasa arsitek ruko kafe kediri desain fasad modern industrial komersial instagramable</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-arsitek-ruko-kafe-kediri-02.webp</image:loc>
+      <image:title>Layout interior kafe dan ruko komersial modern dengan pencahayaan estetik di kediri</image:title>
+    </image:image>
+  </url>
+
+
+
+
 
   <!-- Blog Detail: Mengenal Jenis Genteng Tahan Bocor (18 Sep 2026) -->
   <url>
