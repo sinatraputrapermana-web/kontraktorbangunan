@@ -38,13 +38,14 @@
   <meta name="twitter:image"
     content="https://kontraktorbangunan.web.id/assets/img/blog/jasa-renovasi-rumah-murah-bergaransi-malang.webp" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap"
-    rel="stylesheet" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
-  <link rel="stylesheet" href="../assets/css/style.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="stylesheet" href="../assets/css/style.min.css" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" /></noscript>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" /></noscript>
   <link rel="icon" href="../assets/img/logo/favicon.jpeg" type="image/jpeg" />
   <link rel="shortcut icon" href="../assets/img/logo/favicon.jpeg" type="image/jpeg" />
   <link rel="apple-touch-icon" href="../assets/img/logo/favicon.jpeg" />
@@ -478,7 +479,7 @@
                     border-radius: 20px;
                     margin-top: 28px;
                     margin-bottom: 8px;
-                  " loading="lazy" />
+                  " loading="lazy" decoding="async" />
               <p class="scf-photo-caption">
                 Konsultasi dan penyusunan RAB transparan untuk proyek renovasi rumah di Malang bersama tim profesional.
               </p>
@@ -901,8 +902,7 @@
   <a href="https://wa.me/6288989643555?text=Halo%20Kontraktor%20Bangunan%2C%20saya%20ingin%20berkonsultasi%20mengenai%20proyek%20saya."
     class="wa-float" target="_blank" rel="noopener" aria-label="Chat WhatsApp"><i class="bi bi-whatsapp"></i></a>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/main.min.js" defer></script>
   <script>
     /* Collapsible TOC chevron sync */
     const tocBtn = document.getElementById("tocToggleBtn");

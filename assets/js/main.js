@@ -28,41 +28,6 @@ document.addEventListener('DOMContentLoaded', function () {
   if (closeBtn) closeBtn.addEventListener('click', closeMobileNav);
   if (overlay) overlay.addEventListener('click', closeMobileNav);
 
-  /* Smooth Page Transitions & Navigation Link Handler */
-  document.querySelectorAll('a[href]').forEach(function (link) {
-    link.addEventListener('click', function (e) {
-      var href = link.getAttribute('href');
-
-      if (!href || 
-          href.startsWith('#') || 
-          href.startsWith('javascript:') || 
-          href.startsWith('mailto:') || 
-          href.startsWith('tel:') || 
-          href.includes('wa.me') || 
-          href.includes('api.whatsapp.com') || 
-          link.getAttribute('target') === '_blank' ||
-          e.metaKey || e.ctrlKey || e.shiftKey) {
-        return;
-      }
-
-      e.preventDefault();
-      
-      if (panel && panel.classList.contains('open')) {
-        closeMobileNav();
-      }
-
-      document.body.classList.add('page-is-exiting');
-
-      setTimeout(function () {
-        window.location.href = href;
-      }, 200);
-    });
-  });
-
-  window.addEventListener('pageshow', function (event) {
-    document.body.classList.remove('page-is-exiting');
-  });
-
   /* Mobile submenu accordion */
   document.querySelectorAll('.mobile-toggle-sub').forEach(function (btn) {
     btn.addEventListener('click', function (e) {
@@ -144,17 +109,20 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.faq-item').forEach(function (item) {
     var q = item.querySelector('.faq-q');
     var a = item.querySelector('.faq-a');
-    q.addEventListener('click', function () {
-      var isOpen = item.classList.contains('open');
-      item.closest('.faq-list').querySelectorAll('.faq-item').forEach(function (i) {
-        i.classList.remove('open');
-        i.querySelector('.faq-a').style.maxHeight = null;
+    if (q && a) {
+      q.addEventListener('click', function () {
+        var isOpen = item.classList.contains('open');
+        item.closest('.faq-list').querySelectorAll('.faq-item').forEach(function (i) {
+          i.classList.remove('open');
+          var ia = i.querySelector('.faq-a');
+          if (ia) ia.style.maxHeight = null;
+        });
+        if (!isOpen) {
+          item.classList.add('open');
+          a.style.maxHeight = a.scrollHeight + 'px';
+        }
       });
-      if (!isOpen) {
-        item.classList.add('open');
-        a.style.maxHeight = a.scrollHeight + 'px';
-      }
-    });
+    }
   });
 
   /* Portfolio / blog filter */
@@ -199,6 +167,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.ba-slider').forEach(function (slider) {
     var afterWrap = slider.querySelector('.ba-after-wrap');
     var handle = slider.querySelector('.ba-handle');
+    if (!afterWrap || !handle) return;
     var dragging = false;
     function setPos(clientX) {
       var rect = slider.getBoundingClientRect();
@@ -250,50 +219,86 @@ document.addEventListener('DOMContentLoaded', function () {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  /* Gallery Modal Preview Handler */
-  var gModal = document.getElementById('galleryModal');
-  if (gModal) {
-    gModal.addEventListener('show.bs.modal', function (event) {
-      var button = event.relatedTarget;
-      if (!button) return;
-      var card = button.querySelector('.project-card-sleek') || button;
-      var title = card.querySelector('h3') ? card.querySelector('h3').textContent : 'Detail Proyek';
-      var cat = card.querySelector('.proj-cat-badge') ? card.querySelector('.proj-cat-badge').textContent : 'Portofolio';
-      var meta = card.querySelector('.proj-meta') ? card.querySelector('.proj-meta').innerHTML : 'Indonesia';
-      var imgEl = card.querySelector('.proj-img-wrap img');
-      var phEl = card.querySelector('.ph');
-      var label = phEl ? (phEl.getAttribute('data-label') || title) : title;
+  /* Universal Native Modal Handler (Zero external JS dependency) */
+  document.querySelectorAll('[data-bs-toggle="modal"]').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      var targetSelector = btn.getAttribute('data-bs-target');
+      var modal = document.querySelector(targetSelector);
+      if (!modal) return;
 
-      document.getElementById('modalTitle').textContent = title;
-      document.getElementById('modalCatBadge').textContent = cat;
-      document.getElementById('modalMeta').innerHTML = meta;
-      if (imgEl && imgEl.getAttribute('src')) {
-        document.getElementById('modalImgContainer').innerHTML = '<img src="' + imgEl.getAttribute('src') + '" alt="' + title + '" style="width:100%;height:100%;object-fit:cover;aspect-ratio:16/10;">';
-      } else {
-        document.getElementById('modalImgContainer').innerHTML = '<div class="ph" data-label="' + label + '" style="width:100%;height:100%;aspect-ratio:16/10;"></div>';
+      // Custom Gallery preview data
+      if (modal.id === 'galleryModal') {
+        var card = btn.querySelector('.project-card-sleek') || btn;
+        var title = card.querySelector('h3') ? card.querySelector('h3').textContent : 'Detail Proyek';
+        var cat = card.querySelector('.proj-cat-badge') ? card.querySelector('.proj-cat-badge').textContent : 'Portofolio';
+        var meta = card.querySelector('.proj-meta') ? card.querySelector('.proj-meta').innerHTML : 'Indonesia';
+        var imgEl = card.querySelector('.proj-img-wrap img');
+        var phEl = card.querySelector('.ph');
+        var label = phEl ? (phEl.getAttribute('data-label') || title) : title;
+
+        var mTitle = document.getElementById('modalTitle');
+        var mCat = document.getElementById('modalCatBadge');
+        var mMeta = document.getElementById('modalMeta');
+        var mImg = document.getElementById('modalImgContainer');
+        var mWa = document.getElementById('modalWaBtn');
+
+        if (mTitle) mTitle.textContent = title;
+        if (mCat) mCat.textContent = cat;
+        if (mMeta) mMeta.innerHTML = meta;
+        if (mImg) {
+          if (imgEl && imgEl.getAttribute('src')) {
+            mImg.innerHTML = '<img src="' + imgEl.getAttribute('src') + '" alt="' + title + '" style="width:100%;height:100%;object-fit:cover;aspect-ratio:16/10;">';
+          } else {
+            mImg.innerHTML = '<div class="ph" data-label="' + label + '" style="width:100%;height:100%;aspect-ratio:16/10;"></div>';
+          }
+        }
+        if (mWa) {
+          mWa.setAttribute('href', 'https://wa.me/6288989643555?text=Halo%20Kontraktor%20Bangunan%2C%20saya%20tertarik%20dengan%20proyek%20' + encodeURIComponent(title) + '.');
+        }
       }
-      
-      var waUrl = 'https://wa.me/6288989643555?text=Halo%20Kontraktor%20Bangunan%2C%20saya%20tertarik%20dengan%20proyek%20' + encodeURIComponent(title) + '.';
-      document.getElementById('modalWaBtn').setAttribute('href', waUrl);
-    });
-  }
 
-  /* Article Reader Modal Handler */
-  var aModal = document.getElementById('articleModal');
-  if (aModal) {
-    aModal.addEventListener('show.bs.modal', function (event) {
-      var button = event.relatedTarget;
-      if (!button) return;
-      var card = button.querySelector('.blog-card-sleek') || button;
-      var title = card.querySelector('h3') ? card.querySelector('h3').textContent : 'Artikel';
-      var cat = card.querySelector('.blog-cat-pill') ? card.querySelector('.blog-cat-pill').textContent : 'Tips';
-      var excerpt = card.querySelector('p') ? card.querySelector('p').textContent : '';
+      // Custom Article modal
+      if (modal.id === 'articleModal') {
+        var aCard = btn.querySelector('.blog-card-sleek') || btn;
+        var aTitle = aCard.querySelector('h3') ? aCard.querySelector('h3').textContent : 'Artikel';
+        var aCat = aCard.querySelector('.blog-cat-pill') ? aCard.querySelector('.blog-cat-pill').textContent : 'Tips';
+        var aExcerpt = aCard.querySelector('p') ? aCard.querySelector('p').textContent : '';
 
-      document.getElementById('artModalTitle').textContent = title;
-      document.getElementById('artModalCatBadge').textContent = cat;
-      document.getElementById('artModalExcerpt').textContent = excerpt;
+        var amTitle = document.getElementById('artModalTitle');
+        var amCat = document.getElementById('artModalCatBadge');
+        var amExcerpt = document.getElementById('artModalExcerpt');
+        if (amTitle) amTitle.textContent = aTitle;
+        if (amCat) amCat.textContent = aCat;
+        if (amExcerpt) amExcerpt.textContent = aExcerpt;
+      }
+
+      modal.style.display = 'flex';
+      modal.classList.add('show');
+      document.body.style.overflow = 'hidden';
     });
-  }
+  });
+
+  // Modal dismiss buttons
+  document.querySelectorAll('.modal [data-bs-dismiss="modal"], .modal .btn-close, .modal .btn-close-white').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var modal = btn.closest('.modal');
+      if (modal) {
+        modal.style.display = 'none';
+        modal.classList.remove('show');
+        document.body.style.overflow = '';
+      }
+    });
+  });
+
+  // Click outside modal to close
+  window.addEventListener('click', function (e) {
+    if (e.target && e.target.classList && e.target.classList.contains('modal')) {
+      e.target.style.display = 'none';
+      e.target.classList.remove('show');
+      document.body.style.overflow = '';
+    }
+  });
 
   /* Auto Rotating Mobile Stats Carousel */
   var statCards = document.querySelectorAll('.stats-carousel .stat-card');
