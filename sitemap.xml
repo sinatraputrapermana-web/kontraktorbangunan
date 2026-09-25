@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1303,6 +1303,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/tips-renovasi-fasad-rumah-surabaya-02.webp</image:loc>
       <image:title>Pemasangan kisi kisi louver aluminium dan cat eksterior elastomeric fasad rumah surabaya</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 50: Jasa Kontraktor Gedung Bertingkat Malang (25 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-gedung-malang-bertingkat</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-gedung-malang-bertingkat-01.webp</image:loc>
+      <image:title>Kontraktor gedung malang konstruksi gedung kantor bertingkat modern struktur beton dan kaca</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-gedung-malang-bertingkat-02.webp</image:loc>
+      <image:title>Pekerjaan pengecoran plat lantai dan kolom beton bertulang gedung komersial malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 51: Estimasi Rincian Biaya Bangun Gedung di Malang & Standar Struktur Tahan Gempa (25 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-gedung-malang</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-gedung-malang-01.webp</image:loc>
+      <image:title>Biaya bangun gedung malang perhitungan struktur tahan gempa dan lembar rab konstruksi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-gedung-malang-02.webp</image:loc>
+      <image:title>Pengujian beban tanah geoteknik dan pengeboran pondasi bored pile gedung bertingkat malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 52: Kontraktor Bangunan Hotel, Villa & Resort di Malang Raya & Batu (25 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-hotel-villa-malang-batu</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-hotel-villa-malang-batu-01.webp</image:loc>
+      <image:title>Kontraktor villa malang batu desain villa resort mewah modern dengan infinity pool pemandangan bukit</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-hotel-villa-malang-batu-02.webp</image:loc>
+      <image:title>Pekerjaan retaining wall dinding penahan tanah dan struktur beton bertulang villa lereng batu</image:title>
     </image:image>
   </url>
 
