@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1351,6 +1351,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-hotel-villa-malang-batu-02.webp</image:loc>
       <image:title>Pekerjaan retaining wall dinding penahan tanah dan struktur beton bertulang villa lereng batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 53: Jasa Kontraktor Konstruksi Pabrik & Gudang di Pasuruan (26 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-konstruksi-pabrik-gudang-pasuruan</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-konstruksi-pabrik-gudang-pasuruan-01.webp</image:loc>
+      <image:title>Kontraktor konstruksi pasuruan pembangunan pabrik dan pergudangan industri baja bentang lebar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-konstruksi-pabrik-gudang-pasuruan-02.webp</image:loc>
+      <image:title>Pemasangan rangka baja portal frame kolom wf dan pengecoran lantai industri pasuruan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 54: Jasa Konstruksi Baja WF & Rancang Bangun di Pasuruan (26 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/konstruksi-baja-wf-pasuruan</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konstruksi-baja-wf-pasuruan-01.webp</image:loc>
+      <image:title>Konstruksi baja wf pasuruan perakitan portal frame rafter dan kolom pabrik industri</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/konstruksi-baja-wf-pasuruan-02.webp</image:loc>
+      <image:title>Detail sambungan baut mutu tinggi high tensile dan pelat simpul baja wf konstruksi pasuruan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 55: Estimasi Biaya Konstruksi Bangunan Gedung & Infrastruktur di Pasuruan (26 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-konstruksi-bangunan-pasuruan</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-konstruksi-bangunan-pasuruan-01.webp</image:loc>
+      <image:title>Biaya konstruksi pasuruan kalkulasi rencana anggaran biaya rab bangunan gedung dan fasilitas sipil</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-konstruksi-bangunan-pasuruan-02.webp</image:loc>
+      <image:title>Pekerjaan pemadatan jalan beton rigit pavement dan drainase saluran kawasan industri pasuruan</image:title>
     </image:image>
   </url>
 
