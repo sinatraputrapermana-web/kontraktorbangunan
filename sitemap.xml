@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1447,6 +1447,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-renovasi-bangunan-industri-gresik-02.webp</image:loc>
       <image:title>Penanganan kebocoran atap gudang dan penggantian talang air galvanis kapasitas besar</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 59: Jasa Kontraktor Rumah Mewah & Minimalis di Sidoarjo Bergaransi (29 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-rumah-sidoarjo-terpercaya</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-sidoarjo-terpercaya-01.webp</image:loc>
+      <image:title>Kontraktor rumah sidoarjo pembangunan rumah mewah 2 lantai gaya modern tropis bergaransi spk</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-sidoarjo-terpercaya-02.webp</image:loc>
+      <image:title>Pengerjaan pembesian pondasi cakar ayam dan struktur balok cor beton rumah tinggal di Sidoarjo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 60: Rincian Biaya Bangun Rumah 2 Lantai di Sidoarjo Terbaru 2026 (29 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-rumah-2-lantai-sidoarjo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-2-lantai-sidoarjo-01.webp</image:loc>
+      <image:title>Biaya bangun rumah 2 lantai sidoarjo fasad modern minimalis dengan balkon kaca dan carport mobil</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-2-lantai-sidoarjo-02.webp</image:loc>
+      <image:title>Rincian estimasi biaya dan tabel analisa rencana anggaran biaya rab rumah 2 lantai di Sidoarjo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 61: Jasa Bangun Ruko & Renovasi Tempat Usaha Komersial di Sidoarjo (29 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-bangun-ruko-sidoarjo</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-ruko-sidoarjo-01.webp</image:loc>
+      <image:title>Jasa bangun ruko sidoarjo deretan ruko modern 3 lantai dengan fasad acp kaca dan area parkir luas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-ruko-sidoarjo-02.webp</image:loc>
+      <image:title>Proses konstruksi struktur beton bertulang dak cor lantai ruko komersial di Sidoarjo</image:title>
     </image:image>
   </url>
 
