@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1495,6 +1495,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-bangun-ruko-sidoarjo-02.webp</image:loc>
       <image:title>Proses konstruksi struktur beton bertulang dak cor lantai ruko komersial di Sidoarjo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 62: Jasa Kontraktor Bangunan Industri di Kawasan Ngoro Mojokerto (NIP) (30 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-kawasan-industri-ngoro-mojokerto</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-kawasan-industri-ngoro-mojokerto-01.webp</image:loc>
+      <image:title>Kontraktor ngoro mojokerto pembangunan fasilitas pabrik manufaktur industri baja di kawasan nip</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-kawasan-industri-ngoro-mojokerto-02.webp</image:loc>
+      <image:title>Konstruksi portal frame baja wf bentang lebar dan kolom pedestal beton bertulang di Ngoro Mojokerto</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 63: Estimasi Biaya Konstruksi Bangunan Gedung & Pabrik di Mojokerto 2026 (30 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-konstruksi-bangunan-mojokerto</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-konstruksi-bangunan-mojokerto-01.webp</image:loc>
+      <image:title>Biaya konstruksi mojokerto analisa rencana anggaran biaya rab bangunan gedung dan fasilitas industri</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-konstruksi-bangunan-mojokerto-02.webp</image:loc>
+      <image:title>Pekerjaan pemadatan jalan beton rigit pavement dan saluran drainase u ditch proyek di Mojokerto</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 64: Jasa Manajemen Konstruksi & Pengawasan Proyek Profesional di Jawa Timur (30 Sep 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-manajemen-konstruksi-pengawasan-jatim</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-manajemen-konstruksi-pengawasan-jatim-01.webp</image:loc>
+      <image:title>Jasa manajemen konstruksi jatim tim konsultan pengawas proyek memeriksa gambar kerja dan kepatuhan mutu lapangan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-manajemen-konstruksi-pengawasan-jatim-02.webp</image:loc>
+      <image:title>Validasi rencana anggaran biaya rab dan pengendalian jadwal kurva s manajemen proyek di Jawa Timur</image:title>
     </image:image>
   </url>
 
