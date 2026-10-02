@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1543,6 +1543,54 @@
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-manajemen-konstruksi-pengawasan-jatim-02.webp</image:loc>
       <image:title>Validasi rencana anggaran biaya rab dan pengendalian jadwal kurva s manajemen proyek di Jawa Timur</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 65: Jasa Kontraktor Bangunan & Rumah Tinggal Terpercaya di Madiun (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-rumah-bangunan-madiun</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-bangunan-madiun-01.webp</image:loc>
+      <image:title>Kontraktor bangunan madiun rancang bangun rumah minimalis modern berkualitas di Kota Madiun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-bangunan-madiun-02.webp</image:loc>
+      <image:title>Pengerjaan struktur pondasi batu kali sloof beton bertulang dan dinding bata rumah di Madiun</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 66: Estimasi Biaya Bangun Rumah & Ruko di Madiun per Meter Persegi 2026 (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-rumah-ruko-madiun</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-ruko-madiun-01.webp</image:loc>
+      <image:title>Biaya bangun rumah madiun rincian lembar estimasi rencana anggaran biaya rab rumah dan ruko</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-ruko-madiun-02.webp</image:loc>
+      <image:title>Jasa bangun ruko komersial modern 2 lantai di koridor perniagaan Madiun Jawa Timur</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail 67: Jasa Pengurusan Izin PBG & SLF Bangunan Gedung di Seluruh Jawa Timur (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-pengurusan-pbg-slf-gedung-jatim</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-pengurusan-pbg-slf-gedung-jatim-01.webp</image:loc>
+      <image:title>Pengurusan pbg slf jatim dokumen cetak biru arsitektur dan perizinan sistem simbg kementerian pupr</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-pengurusan-pbg-slf-gedung-jatim-02.webp</image:loc>
+      <image:title>Konsultan teknis arsitektur stra dan ahli struktur ska memeriksa kelengkapan berkas sidang izin pbg di Jawa Timur</image:title>
     </image:image>
   </url>
 

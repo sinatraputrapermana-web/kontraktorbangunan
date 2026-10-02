@@ -1,5 +1,5 @@
 # Master SEO Content (3 Articles Konstruksi Madiun & Legalitas PBG/SLF Jawa Timur)
-*Diterbitkan otomatis untuk publikasi 01 Oktober 2026*
+*Diterbitkan otomatis untuk publikasi 02 Oktober 2026*
 
 ---
 
@@ -21,7 +21,7 @@ Query Fan-Out:
 Audience: Pemilik tanah di Madiun, perantau asal Madiun yang ingin membangun rumah di kampung halaman, pengusaha lokal, dan instansi swasta di Madiun, Caruban, Magetan, Ngawi.
 Suggested Schema: Article, Product, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-01
+Last Updated: 2026-10-02
 Images:
 - /blog/kontraktor-rumah-bangunan-madiun-01.webp | Alt: Kontraktor bangunan madiun rancang bangun rumah minimalis modern berkualitas di Kota Madiun
 - /blog/kontraktor-rumah-bangunan-madiun-02.webp | Alt: Pengerjaan struktur pondasi batu kali sloof beton bertulang dan dinding bata rumah di Madiun
@@ -118,7 +118,7 @@ Query Fan-Out:
 Audience: Calon pembangun rumah, pemilik tanah kavling di Madiun, pengusaha ruko komersial, dan keluarga yang sedang merencanakan RAB pembangunan hunian.
 Suggested Schema: Article, Product, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-01
+Last Updated: 2026-10-02
 Images:
 - /blog/biaya-bangun-rumah-ruko-madiun-01.webp | Alt: Biaya bangun rumah madiun rincian lembar estimasi rencana anggaran biaya rab rumah dan ruko
 - /blog/biaya-bangun-rumah-ruko-madiun-02.webp | Alt: Jasa bangun ruko komersial modern 2 lantai di koridor perniagaan Madiun Jawa Timur
@@ -211,7 +211,7 @@ Query Fan-Out:
 Audience: Pemilik gedung perkantoran, hotel, rumah sakit, pabrik, gudang, ruko, dan pengembang perumahan di seluruh wilayah kabupaten/kota Jawa Timur.
 Suggested Schema: Article, Product, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-01
+Last Updated: 2026-10-02
 Images:
 - /blog/jasa-pengurusan-pbg-slf-gedung-jatim-01.webp | Alt: Pengurusan pbg slf jatim dokumen cetak biru arsitektur dan perizinan sistem simbg kementerian pupr
 - /blog/jasa-pengurusan-pbg-slf-gedung-jatim-02.webp | Alt: Konsultan teknis arsitektur stra dan ahli struktur ska memeriksa kelengkapan berkas sidang izin pbg di Jawa Timur
