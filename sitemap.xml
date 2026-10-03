@@ -128,7 +128,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -136,6 +136,103 @@
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
     </image:image>
   </url>
+
+  <!-- Blog Detail: Perbandingan Pondasi Cakar Ayam vs Strauss Pile vs Bore Pile (03 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/perbandingan-pondasi-cakar-ayam-strauss-bore-pile</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-pondasi-cakar-ayam-strauss-bore-pile-01.webp</image:loc>
+      <image:title>Perbandingan pondasi cakar ayam strauss pile pekerjaan pembesian footplate dan tiang bor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/perbandingan-pondasi-cakar-ayam-strauss-bore-pile-02.webp</image:loc>
+      <image:title>Proses pengeboran tanah manual strauss pile untuk pondasi rumah tinggal 2 lantai</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Metode Waterproofing Dak Beton Anti Bocor (03 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/metode-waterproofing-dak-beton-anti-bocor</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/metode-waterproofing-dak-beton-anti-bocor-01.webp</image:loc>
+      <image:title>Metode waterproofing dak beton aplikasi membran bakar torch on anti bocor pada atap rooftop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/metode-waterproofing-dak-beton-anti-bocor-02.webp</image:loc>
+      <image:title>Pengerjaan pelapisan waterproofing polyurethane liquid coating pada lantai dak beton</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Struktur Baja WF vs Beton Bertulang Komersial (03 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/struktur-baja-wf-vs-beton-bertulang-komersial</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/struktur-baja-wf-vs-beton-bertulang-komersial-01.webp</image:loc>
+      <image:title>Struktur baja wf vs beton bertulang komersial ereksi portal baja iwf gedung komersial bertingkat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/struktur-baja-wf-vs-beton-bertulang-komersial-02.webp</image:loc>
+      <image:title>Konstruksi gedung bertingkat kombinasi kolom komposit baja wf dan plat lantai bondek</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jasa Kontraktor Bangunan Madiun (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/kontraktor-rumah-bangunan-madiun</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-bangunan-madiun-01.webp</image:loc>
+      <image:title>Kontraktor bangunan madiun rancang bangun rumah minimalis modern berkualitas di Kota Madiun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/kontraktor-rumah-bangunan-madiun-02.webp</image:loc>
+      <image:title>Pengerjaan renovasi dan konstruksi ruko dan rumah tinggal di Madiun</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Biaya Bangun Rumah Ruko Madiun (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/biaya-bangun-rumah-ruko-madiun</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-ruko-madiun-01.webp</image:loc>
+      <image:title>Biaya bangun rumah madiun rincian lembar estimasi rencana anggaran biaya rab rumah dan ruko</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/biaya-bangun-rumah-ruko-madiun-02.webp</image:loc>
+      <image:title>Simulasi perhitungan rab konstruksi bangunan rumah 2 lantai di Madiun</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Jasa Pengurusan PBG SLF Gedung Jatim (02 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/jasa-pengurusan-pbg-slf-gedung-jatim</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-pengurusan-pbg-slf-gedung-jatim-01.webp</image:loc>
+      <image:title>Pengurusan pbg slf jatim dokumen cetak biru arsitektur dan perizinan sistem simbg kementerian pupr</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/jasa-pengurusan-pbg-slf-gedung-jatim-02.webp</image:loc>
+      <image:title>Pemeriksaan kelaikan teknis bangunan gedung untuk penerbitan sertifikat laik fungsi slf</image:title>
+    </image:image>
+  </url>
+
   <!-- Blog Detail: jasa-arsitek-kediri-desain-rumah-mewah (23 Sep 2026) -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog/jasa-arsitek-kediri-desain-rumah-mewah</loc>

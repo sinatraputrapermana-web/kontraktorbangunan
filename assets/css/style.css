@@ -1594,54 +1594,105 @@ h3 {
   color: #FFFFFF;
 }
 
-/* --- Scope of Work Sleek Minimalist Cards --- */
+/* --- Scope of Work Cards (Sleek Modern Layout) --- */
 .scope-card {
   background: var(--c-white);
   border: 1px solid rgba(38, 35, 41, 0.08);
-  border-radius: 16px;
-  padding: 20px 18px;
+  border-radius: 18px;
+  padding: 26px 22px;
   height: 100%;
   display: flex;
-  align-items: center;
-  gap: 14px;
+  flex-direction: column;
+  align-items: flex-start;
   transition: all 0.35s var(--ease);
   box-shadow: 0 8px 24px -8px rgba(36, 22, 47, 0.05);
+  position: relative;
+  overflow: hidden;
+}
+
+.scope-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #7B3FE4, #D9B4FE);
+  opacity: 0;
+  transition: opacity 0.35s ease;
 }
 
 .scope-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 16px 36px -10px rgba(36, 22, 47, 0.14), 0 0 20px rgba(123, 63, 228, 0.12);
-  border-color: rgba(123, 63, 228, 0.28);
+  transform: translateY(-6px);
+  box-shadow: 0 18px 38px -10px rgba(36, 22, 47, 0.12), 0 0 20px rgba(123, 63, 228, 0.1);
+  border-color: rgba(123, 63, 228, 0.3);
+}
+
+.scope-card:hover::before {
+  opacity: 1;
+}
+
+.scope-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.scope-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(123, 63, 228, 0.08);
+  border: 1px solid rgba(123, 63, 228, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7B3FE4;
+  font-size: 1.35rem;
+  transition: all 0.35s var(--ease);
+  flex-shrink: 0;
+}
+
+.scope-card:hover .scope-icon {
+  background: linear-gradient(135deg, #7B3FE4 0%, #4A227B 100%);
+  color: #FFFFFF;
+  border-color: rgba(217, 180, 254, 0.4);
+  transform: scale(1.08) rotate(3deg);
+  box-shadow: 0 0 14px rgba(176, 102, 254, 0.35);
 }
 
 .scope-num {
   font-family: var(--f-meta);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 800;
   color: #7B3FE4;
   background: rgba(123, 63, 228, 0.08);
-  width: 38px;
-  height: 38px;
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
+  padding: 4px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.04em;
   transition: all 0.3s ease;
 }
 
 .scope-card:hover .scope-num {
-  background: linear-gradient(135deg, #7B3FE4, #4A227B);
-  color: #FFFFFF;
-  transform: scale(1.08);
+  background: rgba(123, 63, 228, 0.16);
+  color: #4A227B;
 }
 
 .scope-title {
-  font-size: 0.95rem;
+  font-size: 1.12rem;
   font-weight: 700;
   color: var(--c-dark-purple);
+  margin: 0 0 10px 0;
+  line-height: 1.35;
+}
+
+.scope-desc {
+  font-size: 0.92rem;
+  color: var(--c-muted);
+  line-height: 1.6;
   margin: 0;
-  line-height: 1.3;
 }
 
 /* --- Sleek Project / Gallery Card Component --- */
@@ -4385,14 +4436,14 @@ legend {
 .scf-sidebar-product {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   padding: 12px 14px;
   background: rgba(123, 63, 228, 0.04);
   border: 1px solid rgba(123, 63, 228, 0.12);
   border-radius: 14px;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   text-decoration: none;
-  transition: all 0.25s ease;
+  transition: all 0.3s var(--ease);
 }
 
 .scf-sidebar-product:last-child {
@@ -4401,25 +4452,44 @@ legend {
 
 .scf-sidebar-product:hover {
   background: rgba(123, 63, 228, 0.08);
+  border-color: rgba(123, 63, 228, 0.28);
   transform: translateX(4px);
 }
 
-.scf-sidebar-product i,
-.scf-sidebar-product .material-symbols-outlined {
+.scf-sidebar-product i {
   color: #7B3FE4;
-  font-size: 1.4rem;
+  font-size: 1.25rem;
+  width: 40px;
+  height: 40px;
+  background: rgba(123, 63, 228, 0.08);
+  border: 1px solid rgba(123, 63, 228, 0.16);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.3s ease;
+}
+
+.scf-sidebar-product:hover i {
+  background: linear-gradient(135deg, #7B3FE4 0%, #4A227B 100%);
+  color: #FFFFFF;
+  border-color: transparent;
+  transform: scale(1.08);
 }
 
 .scf-sidebar-product-name {
   font-family: var(--f-head);
-  font-size: 0.9rem;
+  font-size: 0.92rem;
   font-weight: 700;
   color: var(--c-dark-purple);
+  margin-bottom: 2px;
 }
 
 .scf-sidebar-product-desc {
   font-size: 0.78rem;
   color: var(--c-muted);
+  line-height: 1.4;
 }
 
 /* --- Mobile Responsive Tuning for Single Article Page --- */
