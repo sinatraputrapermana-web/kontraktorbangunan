@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Desain Rumah Tropis Modern Hemat Energi (05 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/desain-rumah-tropis-modern-hemat-energi</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/desain-rumah-tropis-modern-hemat-energi-01.webp</image:loc>
+      <image:title>Desain rumah tropis modern fasad secondary skin kayu dan bukaan ventilasi silang asri</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/desain-rumah-tropis-modern-hemat-energi-02.webp</image:loc>
+      <image:title>Area inner courtyard taman tengah terbuka dengan void pencahayaan alami rumah tropis</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Desain Rumah Split Level di Lahan 6x12 (05 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/desain-rumah-split-level-lahan-sempit</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/desain-rumah-split-level-lahan-sempit-01.webp</image:loc>
+      <image:title>Desain rumah split level lahan sempit interior tangga setengah lantai dan void terbuka luas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/desain-rumah-split-level-lahan-sempit-02.webp</image:loc>
+      <image:title>Denah tata ruang rumah split level ukuran 6x12 meter tampak samping arsitektur modern</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Panduan Bangun Villa & Homestay Bisnis (05 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/panduan-bangun-villa-homestay-bisnis</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/panduan-bangun-villa-homestay-bisnis-01.webp</image:loc>
+      <image:title>Panduan bangun villa homestay bisnis konsep industrial tropis dengan private plunge pool</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/panduan-bangun-villa-homestay-bisnis-02.webp</image:loc>
+      <image:title>Interior kamar tidur villa estetik dinding semen unfinish dan pintu kaca geser aluminium</image:title>
     </image:image>
   </url>
 
