@@ -128,12 +128,60 @@
   <!-- Blog Index -->
   <url>
     <loc>https://kontraktorbangunan.web.id/blog</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/apa-Itu-kontraktor-bangunan.webp</image:loc>
       <image:title>Blog Edukasi Konstruksi Bangunan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Cara Menghitung RAB Bangun Rumah Sendiri Standar AHSP (06 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/cara-menghitung-rab-bangun-rumah-ahsp</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/cara-menghitung-rab-bangun-rumah-ahsp-01.webp</image:loc>
+      <image:title>Cara menghitung rab bangun rumah lembar kerja excel analisa harga satuan pekerjaan ahsp</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/cara-menghitung-rab-bangun-rumah-ahsp-02.webp</image:loc>
+      <image:title>Pemeriksaan gambar kerja ded arsitektur untuk perhitungan volume take-off material</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Borongan All-In vs Borongan Tenaga (06 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/borongan-all-in-vs-borongan-tenaga-bangunan</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/borongan-all-in-vs-borongan-tenaga-bangunan-01.webp</image:loc>
+      <image:title>Borongan all in vs borongan tenaga proses penandatanganan spk dan pengawasan material di lapangan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/borongan-all-in-vs-borongan-tenaga-bangunan-02.webp</image:loc>
+      <image:title>Tim tukang konstruksi sedang melakukan pekerjaan pemasangan dinding dan plesteran</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Detail: Bata Merah vs Bata Ringan Hebel vs Batako (06 Okt 2026) -->
+  <url>
+    <loc>https://kontraktorbangunan.web.id/blog/bata-merah-vs-bata-ringan-hebel-batako</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bata-merah-vs-bata-ringan-hebel-batako-01.webp</image:loc>
+      <image:title>Bata merah vs bata ringan hebel perbandingan fisik dan kerapian pemasangan dinding</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunan.web.id/assets/img/blog/bata-merah-vs-bata-ringan-hebel-batako-02.webp</image:loc>
+      <image:title>Tukang sedang memasang bata ringan hebel menggunakan semen instan thin bed</image:title>
     </image:image>
   </url>
 
