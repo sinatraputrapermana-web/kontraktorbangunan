@@ -1,5 +1,5 @@
 # Master SEO Content (3 Articles: Panduan Menghitung RAB AHSP, Borongan All-In vs Tenaga & Komparasi Material Dinding)
-*Diterbitkan untuk stok publikasi 06 Oktober 2026*
+*Diterbitkan untuk stok publikasi 07 Oktober 2026*
 
 ---
 
@@ -24,7 +24,7 @@ Query Fan-Out:
 Audience: Pemilik rumah perencana mandiri, calon pengembang kavling, mahasiswa teknik sipil, dan mandor pelaksana.
 Suggested Schema: Article, Service, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-06
+Last Updated: 2026-10-07
 Images:
 - /blog/cara-menghitung-rab-bangun-rumah-ahsp-01.webp | Alt: Cara menghitung rab bangun rumah lembar kerja excel analisa harga satuan pekerjaan ahsp
 - /blog/cara-menghitung-rab-bangun-rumah-ahsp-02.webp | Alt: Pemeriksaan gambar kerja ded arsitektur untuk perhitungan volume take-off material
@@ -117,7 +117,7 @@ Query Fan-Out:
 Audience: Calon pemilik rumah yang bingung menentukan metode kontrak borongan, keluarga pekerja sibuk, dan investor properti.
 Suggested Schema: Article, Service, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-06
+Last Updated: 2026-10-07
 Images:
 - /blog/borongan-all-in-vs-borongan-tenaga-bangunan-01.webp | Alt: Borongan all in vs borongan tenaga proses penandatanganan spk dan pengawasan material di lapangan
 - /blog/borongan-all-in-vs-borongan-tenaga-bangunan-02.webp | Alt: Tim tukang konstruksi sedang melakukan pekerjaan pemasangan dinding dan plesteran
@@ -200,7 +200,7 @@ Query Fan-Out:
 Audience: Calon pemilik rumah, mandor bangunan, arsitek interior, dan pengembang properti.
 Suggested Schema: Article, Product, FAQPage, BreadcrumbList
 Author: Tim Spesialis Kontraktor Bangunan
-Last Updated: 2026-10-06
+Last Updated: 2026-10-07
 Images:
 - /blog/bata-merah-vs-bata-ringan-hebel-batako-01.webp | Alt: Bata merah vs bata ringan hebel perbandingan fisik dan kerapian pemasangan dinding
 - /blog/bata-merah-vs-bata-ringan-hebel-batako-02.webp | Alt: Tukang sedang memasang bata ringan hebel menggunakan semen instan thin bed
